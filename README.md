@@ -4,4 +4,4 @@
 
 [Artma_Azaltma-2;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Artma_Azaltma-2)
 
-[Sahiplik-3;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Sahiplik-3%3B)
+[Sahiplik-3;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Sahiplik-3)
