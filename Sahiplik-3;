@@ -1,0 +1,22 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.17;
+
+contract Sahiplik {
+
+    address public sahip;
+
+    constructor () {
+        sahip = msg.sender;
+    }
+    
+    modifier SadeceSahip () {
+        require(msg.sender == sahip,"sahip degilsiniz");
+        _;
+    }
+
+    function SahipSorgulama (address _yeniSahip) external SadeceSahip {
+        require(_yeniSahip != address(0), "gecersiz adres");
+        sahip = _yeniSahip;
+    }
+
+}
