@@ -7,3 +7,5 @@
 [Sahiplik-3;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Sahiplik-3)
 
 [Array_Değiştirme-4;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Array_De%C4%9Fi%C5%9Ftirme-4)
+
+[Mapping_Degistirme-5;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Mapping_Degistirme-5)
