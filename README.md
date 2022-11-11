@@ -17,3 +17,5 @@
 [Giris_Kontrolu-8;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Giris_Kontrolu-8)
 
 [Kumbara-9;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Kumbara-9)
+
+[ERC20_Token-10;](https://github.com/umaysafak/Solidity-Projeler/blob/main/ERC20_Token-10)
