@@ -18,16 +18,14 @@ contract MerhabaDunya {
     }
 }
 
+/*
+Bu basit "Merhaba, Dünya!" projesi, Solidity dilinde bir akıllı sözleşme oluşturur. Sözleşme içinde bir mesaj adında bir değişken tanımlanır ve başlangıç değeri olarak "Merhaba, Dünya!" atanır.
 
+Sözleşme ayrıca setMesaj ve getMesaj fonksiyonlarına sahiptir. setMesaj fonksiyonu, _yeniMesaj parametresi aracılığıyla mesaj değişkeninin değerini güncellemek için kullanılır.
+getMesaj fonksiyonu ise mesaj değişkeninin değerini okumak için kullanılır.
 
-//  Bu basit "Merhaba, Dünya!" projesi, Solidity dilinde bir akıllı sözleşme oluşturur. Sözleşme içinde bir mesaj adında bir değişken tanımlanır ve başlangıç değeri olarak "Merhaba, Dünya!" atanır.
+Bu sözleşme, dağıtıldığında "Merhaba, Dünya!" mesajını varsayılan olarak döndürür. Ancak setMesaj fonksiyonu aracılığıyla kullanıcılar mesajı istedikleri şekilde güncelleyebilirler.
+getMesaj fonksiyonu, mevcut mesajı okumak için kullanılabilir.
 
-//  Sözleşme ayrıca setMesaj ve getMesaj fonksiyonlarına sahiptir. setMesaj fonksiyonu, _yeniMesaj parametresi aracılığıyla mesaj değişkeninin değerini güncellemek için kullanılır.
-//  getMesaj fonksiyonu ise mesaj değişkeninin değerini okumak için kullanılır.
-
-//  Bu sözleşme, dağıtıldığında "Merhaba, Dünya!" mesajını varsayılan olarak döndürür. Ancak setMesaj fonksiyonu aracılığıyla kullanıcılar mesajı istedikleri şekilde güncelleyebilirler.
-//  getMesaj fonksiyonu, mevcut mesajı okumak için kullanılabilir.
-
-//  Bu proje, Solidity dilini öğrenmek için temel bir örnektir ve akıllı sözleşme oluşturmanın temel prensiplerini gösterir.
-
-
+Bu proje, Solidity dilini öğrenmek için temel bir örnektir ve akıllı sözleşme oluşturmanın temel prensiplerini gösterir.
+*/
