@@ -2,7 +2,7 @@
 
 [Merhaba Dünya-1;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Merhaba_Dünya-1)
 
-[Artma_Azaltma-2;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Artma_Azaltma-2)
+[Basit_Depolama-2;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Artma_Azaltma-2)
 
 [Sahiplik-3;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Sahiplik-3)
 
