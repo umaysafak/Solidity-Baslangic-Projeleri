@@ -14,7 +14,7 @@
 
 [ERC20_Token-7;](https://github.com/umaysafak/Solidity-Projeler/blob/main/ETH_Cuzdani-7)
 
-[Giris_Kontrolu-8;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Giris_Kontrolu-8)
+[Token_Cüzdanı-8;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Giris_Kontrolu-8)
 
 [Kumbara-9;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Kumbara-9)
 
