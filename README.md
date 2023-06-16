@@ -1,21 +1,21 @@
 # Solidity-Projeler
 
-[Merhaba Dünya-1;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Merhaba_Dünya-1)
+[Merhaba Dünya-1;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Merhaba_Dünya-1.sol)
 
-[Basit_Depolama-2;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Artma_Azaltma-2)
+[Basit_Depolama-2;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Basit_Depolama-2.sol)
 
-[Akıllı_Sözleşme_Oylama-3;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Sahiplik-3)
+[Akıllı_Sözleşme_Oylama-3;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Akıllı_Sözleşme_Oylama-3.sol)
 
-[Ether_Cüzdanı-4;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Array_De%C4%9Fi%C5%9Ftirme-4)
+[Ether_Cüzdanı-4;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Ether_Cüzdanı-4.sol)
 
-[Çoklu_Gönderme-5;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Mapping_Degistirme-5)
+[Çoklu_Gönderme-5;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Çoklu_Gönderme-5.sol)
 
-[Zaman_Kilidi-6;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Yapilacaklar_Listesi-6)
+[Zaman_Kilidi-6;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Zaman_Kilidi-6.sol)
 
-[ERC20_Token-7;](https://github.com/umaysafak/Solidity-Projeler/blob/main/ETH_Cuzdani-7)
+[ERC20_Token-7;](https://github.com/umaysafak/Solidity-Projeler/blob/main/ERC20_Token-7.sol)
 
-[Token_Cüzdanı-8;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Giris_Kontrolu-8)
+[Token_Cüzdanı-8;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Token_Cüzdanı-8.sol)
 
-[Air_Drop-9;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Kumbara-9)
+[Air_Drop-9;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Air_Drop-9.sol)
 
-[ICO-10;](https://github.com/umaysafak/Solidity-Projeler/blob/main/ERC20_Token-10)
+[ICO-10;](https://github.com/umaysafak/Solidity-Projeler/blob/main/ICO-10.sol)
