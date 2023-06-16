@@ -1,4 +1,4 @@
-# Solidity-Projeler
+# Solidity-Baslangic-Projeleri
 
 [Merhaba Dünya-1;](https://github.com/umaysafak/Solidity-Projeler/blob/main/Merhaba_Dünya-1.sol)
 
