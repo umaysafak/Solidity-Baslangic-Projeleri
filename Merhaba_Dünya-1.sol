@@ -6,7 +6,7 @@ contract MerhabaDunya {
     string public mesaj;
 
     constructor() {
-        mesaj = "Merhaba, Dünya!";
+        mesaj = "Merhaba, Dunya!";
     }
 
     function setMesaj(string memory _yeniMesaj) public {
